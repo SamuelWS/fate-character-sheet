@@ -73,7 +73,7 @@ echo "
           </div>
           <div class = 'row border bottom'>
             <h3 class = 'title'>$np</h3>
-            <h4>$type Anti-$anti Noble Phantasm</h4>
+            <h5>$type Anti-$anti Noble Phantasm</h5>
           </div>
         </div>
         <div class = 'column'>
