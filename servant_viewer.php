@@ -32,9 +32,9 @@ echo "
             <h4 class = 'off'>$off</h3>
             <h4 class ='class-attribute attr-row' style = 'clear: both; float: left'>Alignment:</h4>
             <h4 class = 'attr-row' style ='float: left'> $align</h4>
-            <h5 class ='class-attribute attr-row' style = 'clear: both; float: left'>Strongly Qualified Classes:</h5>
+            <h5 class ='class-attribute attr-row' style = 'clear: both; float: left'>Strong Qualifications:</h5>
             <h5 class = 'attr-row' style ='float: left'>$quali</h5>
-            <h5 class ='class-attribute attr-row' style = 'clear: both; float: left'>Weakly Qualified Classes:</h5>
+            <h5 class ='class-attribute attr-row' style = 'clear: both; float: left'>Weak Qualifications:</h5>
             <h5 class = 'attr-row' style ='float: left'>$weak</h5>
           </div>
           <div class = 'row border'>
